@@ -1,0 +1,17 @@
+7. Theory Day: Virtual DOM & How React Works
+Cover reconciliation, component lifecycle (basic), and JSX vs HTML.
+
+
+Reconciliation: It is a process of finding any update on the DOM and update it.
+ React keeps a copy of DOM and whenever there is any changes it updates the DOM.
+ The process is also known as "Diffing".
+ It only updates the changed part of the real DOM
+
+
+Component Lifecycle:
+ It contains multiple phases of a component like creation, updation, deletion phases
+
+
+JSX vs HTML:
+ JSX is the syntax React uses to describe UI. It looks like HTML but works inside JavaScript.
+ JSX is not HTML, but its converted to JavaScript by tools like Babel.
