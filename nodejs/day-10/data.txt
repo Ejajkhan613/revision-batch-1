@@ -1,0 +1,9 @@
+Hi
+this
+is
+data
+
+
+
+in
+data.txt
