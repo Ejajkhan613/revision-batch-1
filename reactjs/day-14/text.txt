@@ -1,0 +1,13 @@
+7. Theory Day: React Component Lifecycle Overview
+Discuss component mounting, updating, unmounting.
+
+
+Mounting:
+ It is a step when the component is created and inserted into the DOM
+ 
+ 
+Updating:
+ It is a step when the components props or states changes
+
+Unmounting:
+ It is a step when the component is removed from the DOM
